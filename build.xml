@@ -1,5 +1,5 @@
 <project name="awstraining" default="create-zip" basedir=".">
-<property file="${basedir}/build.properties"/>
+		<!--<property file="${basedir}/build.properties"/> /-->
 <property name="dist" value="dist"/>
 <property name="build" value="build"/>
 <property name="dist-location" value="${basedir}/${build}/${dist}"/>
